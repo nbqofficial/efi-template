@@ -15,3 +15,9 @@ Prerequisites (from here https://github.com/ionescu007/VisualUefi)
 5. Download VisualUefi(https://github.com/ionescu007/VisualUefi) and download edk2(https://github.com/tianocore/edk2) in the edk2 subfolder of VisualUefi
 6. Open up EDK-II folder and open the solution
 7. Compile and hf
+
+
+
+ACTUAL TUTORIAL
+
+git clone --recurse-submodules https://github.com/ionescu007/VisualUefi/
